@@ -1,4 +1,5 @@
 def text_analyzer(*texte):
+    '''This function counts the number of upper characters, lower characters, punctuation and spaces in a given text.'''
     punct = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
     if len(texte) > 1:
         print("ERROR")
