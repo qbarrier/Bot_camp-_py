@@ -1,0 +1,5 @@
+conda list
+conda list
+ls $PATH_MINICONDA/pckgs/numpy*
+conda search tesseract
+
